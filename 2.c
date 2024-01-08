@@ -1,8 +1,13 @@
-int foo
+int foo()
 {
     return 0;
 }
+
 int func()
 {
-	int q;
+    int q;
+    int a;
+    int c;
 }
+
+
