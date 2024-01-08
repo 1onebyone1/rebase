@@ -11,3 +11,7 @@ int func()
 }
 
 
+int func2()
+{
+	char b;
+}
