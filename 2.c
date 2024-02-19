@@ -8,6 +8,10 @@ int func()
     int q;
     int a;
     int c;
+    int ret_value;
+
+    return ret_value;
+	
 }
 
 
