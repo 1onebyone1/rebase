@@ -9,6 +9,8 @@ int main()
 	f4();
 
 	//Hello this is a commemt for the function.
+	f2();
+	f3();
 	
 	return 0;
 }
